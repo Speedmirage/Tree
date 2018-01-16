@@ -4,7 +4,7 @@ This program is able to print out the word "Temparature" form an out-of order st
 
 ## How to run it?
 
-Since this program requires multiple files to run; It wasn’t able to run on a cloud based compiler. Therefore, you can find all the necessary files [here](https://github.com/Speedmirage/Tree). Lastly, if you are using Xcode an Xcode project was included for your convinience :)
+Since this program requires multiple files to run; It wasn’t able to run on a cloud based compiler. Therefore, you can find all the necessary files [here](https://github.com/Speedmirage/Tree). Lastly, if you are using Xcode an Xcode project was included for your convinience :).
 
 
 
